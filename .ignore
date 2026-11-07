@@ -1,0 +1,3 @@
+# Keep .deps/ visible to ripgrep-based tools (Grep/Glob) even though .gitignore excludes it.
+!.deps
+!.deps/**
